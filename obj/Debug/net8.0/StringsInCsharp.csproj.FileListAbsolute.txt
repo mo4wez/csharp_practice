@@ -1,0 +1,14 @@
+C:\Users\moawe\source\repos\StringsInCsharp\bin\Debug\net8.0\StringsInCsharp.exe
+C:\Users\moawe\source\repos\StringsInCsharp\bin\Debug\net8.0\StringsInCsharp.deps.json
+C:\Users\moawe\source\repos\StringsInCsharp\bin\Debug\net8.0\StringsInCsharp.runtimeconfig.json
+C:\Users\moawe\source\repos\StringsInCsharp\bin\Debug\net8.0\StringsInCsharp.dll
+C:\Users\moawe\source\repos\StringsInCsharp\bin\Debug\net8.0\StringsInCsharp.pdb
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\StringsInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\StringsInCsharp.AssemblyInfoInputs.cache
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\StringsInCsharp.AssemblyInfo.cs
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\StringsInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\StringsInCsharp.dll
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\refint\StringsInCsharp.dll
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\StringsInCsharp.pdb
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\StringsInCsharp.genruntimeconfig.cache
+C:\Users\moawe\source\repos\StringsInCsharp\obj\Debug\net8.0\ref\StringsInCsharp.dll
